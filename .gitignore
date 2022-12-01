@@ -1,0 +1,4 @@
+scala-cli.json
+.metals
+.scala-build
+.vscode
