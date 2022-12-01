@@ -1,7 +1,6 @@
 package day01
 
 import scala.annotation.tailrec
-import scala.util.Try
 
 @main def main =
 
